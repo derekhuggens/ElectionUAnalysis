@@ -113,9 +113,3 @@ with open(file_to_save, "w") as txt_file:
 # Close the file
 # outfile.close()
 ###
-
-# Using the with statement to open the file as a text file.
-#with open(file_to_save, "w") as txt_file:
-
-# Write some data to the file.
-#txt_file.write("Counties in the Election\n-------------------------\nArapahoe\nDenver\nJefferson")
