@@ -43,7 +43,7 @@ The winner of the election was candidate Diana Degette with a winning vote count
 
 Below is the election_analysis.txt file showing the election results in an easily understood format.
 
-![image](https://user-images.githubusercontent.com/27036669/138611094-dab8cd49-93a9-4912-8360-e479470c376a.png)
+![image]()
 
 ## Future Election Proposal
 
