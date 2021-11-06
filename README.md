@@ -41,6 +41,10 @@ Finally, once the Python election script was run, it should output the election 
 
 The winner of the election was candidate Diana Degette with a winning vote count of 272,892 and a winning percentage of 73.8%.
 
+Below is the election_analysis.txt file showing the election results in an easily understood format.
+
+![image](https://user-images.githubusercontent.com/27036669/138611094-dab8cd49-93a9-4912-8360-e479470c376a.png)
+
 ## Future Election Proposal
 
 ### 
