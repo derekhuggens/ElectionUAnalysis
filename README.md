@@ -14,7 +14,9 @@ In addition, I was tasked to:
   1. Calculate the voter turnout for each county.
   2. Calculate the percentage of votes from each county out of the total count.
   3. Calculate the county with the highest voter turnout.  
-
+ 
+Finally, once the Python election script was run, it should output the election results in layman's format within a text file that is easily read and understood.
+ 
 ## Resources
 
 ### 
